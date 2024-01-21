@@ -1,7 +1,7 @@
 from pygame import *
 from random import randint
 from time import time as timer
-
+tr
 mixer.init()
 mixer.music.load('space.ogg')
 mixer.music.play()
